@@ -1,0 +1,14 @@
+{
+  "name": "shinobu-songs-api",
+  "version": "1.0.0",
+  "description": "API for Shinobu.js song playback system",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  }
+}
